@@ -13,7 +13,6 @@ Battle Beyond The Stars (1980)
 Edge of Tomorrow/Live Die Repeat (2014)
 
 
-Minutemen (2008)
 clockstoppers 2002
 
 ghosts of Mars (2001)
@@ -145,7 +144,7 @@ On The Beach (1959)
 Nausicaä of the Valley of the Wind (1984)
 28 Days Later
 4k77 
-worlds end (2013)
+
 E.T. (1982)
 Moonraker (1979)
 Poor Things (2023)
@@ -175,7 +174,7 @@ shredder orpheus (1989)
 john carter’s sequel
 The Beast (2023)
 Re-Animator (1985)
-Doctor Mordrid (1992) (MST3K version available)
+
 Llamageddon
 
 star wars the rise of skywalker
@@ -199,7 +198,7 @@ El Hoyo (2019)
 Ballistic: Ecks vs. Sever (2002)
 Serenity (2005)
 Assassin (2023)
-Time Chasers (1997)
+Time Chasers (1994)
 
 Moon Trap: Target Earth (2017)
 
@@ -209,7 +208,7 @@ The Hunger Games: Mockingjay - Part 2 (2015)
 The Hunger Games: Mockingjay - Part 2 (2015)
 The 6th Day (2000)
 What Happened to Monday (2017)
-A Scanner Darkly (2006)
+
 City of Ember (2008)
 The Island (2005)
 The Man Who Fell to Earth (1976)
