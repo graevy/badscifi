@@ -26,7 +26,7 @@ annihilation sequel?
 Oblivion (2013) 
 anon 2018
 red planet 2000
-Gravity (2013)
+
 Fortress (1992)
 watchmen 2009
 
@@ -45,7 +45,7 @@ flatliners 1990
 
 Tremors II
 Tremors III
-Tomorrowland (2015)
+
 Evolution (2001)
 Dragons Heaven 1988
 Big Hero 6 (2014)
@@ -87,7 +87,6 @@ the time machine (2002)
 sentinel 2024
 replicant (2001)
 2001: A Space Travesty (2000)
-animalia (2023)
 The Man Who Saved the World (1981) 
 Chain Reaction (1996) 
 9 (2009)
@@ -209,7 +208,6 @@ The Hunger Games: Mockingjay - Part 2 (2015)
 The 6th Day (2000)
 What Happened to Monday (2017)
 
-City of Ember (2008)
 The Island (2005)
 The Man Who Fell to Earth (1976)
 Blue Harvest (2007)
@@ -222,3 +220,5 @@ Communion (1989)
 Summer Wars (2009)
 Final Fantasy: The Spirits Within (2001)
 
+Animalia (2023)
+Europa Report (2013)
