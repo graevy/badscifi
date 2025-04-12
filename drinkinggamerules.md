@@ -23,8 +23,8 @@
 | multiple suns/moons visible                       |                       |                              |
 | “it’s...Earth!?”                                  |                       |                              |
 | psychic nosebleed                                 |                       |                              |
-| "The Resistance(tm)"                              |                       |                              |
-| “Credits”                                         |                       |                              |
+| the "resistance"/"rebellion"                      |                       |                              |
+| “credits”                                         |                       |                              |
 | new york                                          |                       |                              |
 | antagonists british/french                        |                       |                              |
 | eye scar                                          |                       |                              |
@@ -34,7 +34,7 @@
 | many-worlds theory explanation                    |                       |                              |
 | wormhole                                          |                       |                              |
 | steampunk monocle                                 |                       |                              |
-| Self-destruct countdown                           |                       |                              |
+| self-destruct countdown                           |                       |                              |
 | defibrillator                                     |                       |                              |
 | opening the door with the guard’s body            |                       |                              |
 | surveillance van                                  |                       |                              |
@@ -44,12 +44,12 @@
 | ledge walk                                        |                       |                              |
 | dead progenitor civilization                      |                       |                              |
 | transparent monitor                               |                       |                              |
-| spice                                             |                       |                              |
+| space drug                                        |                       |                              |
 | escape pod                                        |                       |                              |
 | shoot the lock                                    |                       |                              |
 | walks into forcefield                             |                       |                              |
 | soft vacuum                                       |                       |                              |
-| space wind                                        |                       |                              |
+| space aether                                      |                       |                              |
 | it’s gonna overload                               |                       |                              |
 | conveniently close planet                         |                       |                              |
 | ventcrawl                                         |                       |                              |
@@ -57,11 +57,32 @@
 | crash landing                                     |                       |                              |
 | over the railing                                  |                       |                              |
 | knocked prone by the explosion                    |                       |                              |
-| cut the red wire!                                 |                       |                              |
+| cut the wire!                                     |                       |                              |
 | sci-fi combat pit                                 |                       |                              |
 | universal translator                              |                       |                              |
 | clone standoff                                    |                       |                              |
 | the president/prime minister/cabinet/joint chiefs |                       |                              |
 | outrun the explosion                              |                       |                              |
+| warning shot                                      |                       |                              |
+| it was all a dream                                |                       |                              |
+| must've been the wind                             |                       |                              |
+| "i'm in"                                          |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
+|                                                   |                       |                              |
 |                                                   |                       |                              |
 |                                                   |                       |                              |

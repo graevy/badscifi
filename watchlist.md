@@ -1,5 +1,3 @@
-Movie Title
-
 brainstorm 1983
 
 A Clockwork Orange (1971)
@@ -15,7 +13,6 @@ Edge of Tomorrow/Live Die Repeat (2014)
 
 clockstoppers 2002
 
-ghosts of Mars (2001)
 knowing (2009)
 the city of lost children 1995 (mid)
 
@@ -123,7 +120,6 @@ stalker 1979
 
 Upgrade (2018)
 
-
 it conquered the world (1956)
 cube (1997) (horror)
 A.P.E.X. (1994)
@@ -159,9 +155,6 @@ Bliss 2021
 R.i.p.d
 tron4tron
 
-
-
-
 Flatland: The Film (2007 Ehlinger film) (YoutubeID: avMX-Zft7K4 )
 time masters (1982)
 2010: the year we make contact (1984)
@@ -170,7 +163,6 @@ the astronaut's wife (1999)
 
 The Island (2005)
 shredder orpheus (1989)
-john carter’s sequel
 The Beast (2023)
 Re-Animator (1985)
 
@@ -181,7 +173,6 @@ everything everywhere all at once
 Andromeda strain
 Crime Zone (1988)
 bourne identity (2002)
-Flushed away (2006)
 
 demon seed (1977)
 frequency (2000)
@@ -222,3 +213,24 @@ Final Fantasy: The Spirits Within (2001)
 
 Animalia (2023)
 Europa Report (2013)
+
+Roller Blade (1986)
+Prayer For The Rollerboys (1990)
+moon child (2003)
+Oresama (2004)
+Transformers (2007)
+flight of the navigator (1986)
+La Planète sauvage (1973)
+John Carter 2 (2025)
+Hot Tub Time Machine (2010)
+AGGRO DR1FT (2024)
+Serenity (2019)
+Mickey 17 (2025)
+Smart House (1999)
+The Electric State (2025)
+the roller blade seven (1991)
+invasion of the bee girls (1973)
+The Island (2005)
+Paycheck (2003)
+Cypher (2002)
+
