@@ -67,7 +67,7 @@
 | it was all a dream                                |                       |                              |
 | must've been the wind                             |                       |                              |
 | "i'm in"                                          |                       |                              |
-|                                                   |                       |                              |
+| prophecy                                          |                       |                              |
 |                                                   |                       |                              |
 |                                                   |                       |                              |
 |                                                   |                       |                              |
