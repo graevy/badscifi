@@ -20,7 +20,7 @@ thirteenth floor
 
 screamers: the haunting (2009)
 annihilation sequel?
-Oblivion (2013) 
+Oblivion (2013)
 anon 2018
 red planet 2000
 
@@ -67,7 +67,7 @@ arrival 2016
 the day the earth stood still
 wild zero
 
-heavy metal 
+heavy metal
 tetsuo the iron man
 
 End of Eternity
@@ -75,7 +75,7 @@ the titan (2018)
 weird science 1985
 Lightyear (2022)
 Goldmember 2002
-SCP overlord (2020) 
+SCP overlord (2020)
 The Philadelphia experiment 2012
 Red Faction: Origins, 2011
 
@@ -84,10 +84,10 @@ the time machine (2002)
 sentinel 2024
 replicant (2001)
 2001: A Space Travesty (2000)
-The Man Who Saved the World (1981) 
-Chain Reaction (1996) 
+The Man Who Saved the World (1981)
+Chain Reaction (1996)
 9 (2009)
-liquid sky 
+liquid sky
 
 barbarella 1998
 the maze runner (2014)
@@ -114,7 +114,7 @@ a scanner darkly
 congress
 videodrome 1983
 
-ex machina (2014) 
+ex machina (2014)
 godzilla 1954
 stalker 1979
 
@@ -138,7 +138,7 @@ children of men (2006)
 On The Beach (1959)
 Nausicaä of the Valley of the Wind (1984)
 28 Days Later
-4k77 
+4k77
 
 E.T. (1982)
 Moonraker (1979)
@@ -201,7 +201,6 @@ What Happened to Monday (2017)
 
 The Island (2005)
 The Man Who Fell to Earth (1976)
-Blue Harvest (2007)
 
 supernova (2000)
 2012: Supernova (2009)
@@ -225,12 +224,12 @@ John Carter 2 (2025)
 Hot Tub Time Machine (2010)
 AGGRO DR1FT (2024)
 Serenity (2019)
-Mickey 17 (2025)
 Smart House (1999)
 The Electric State (2025)
-the roller blade seven (1991)
 invasion of the bee girls (1973)
 The Island (2005)
 Paycheck (2003)
 Cypher (2002)
+
+the blue harvest sequels
 
