@@ -74,7 +74,6 @@ End of Eternity
 the titan (2018)
 weird science 1985
 Lightyear (2022)
-Goldmember 2002
 SCP overlord (2020)
 The Philadelphia experiment 2012
 Red Faction: Origins, 2011
@@ -132,7 +131,7 @@ planet of the apes (1968)
 plan 10 from outer space (1994)
 PG: Psycho Goreman (2020)
 mission to mars (2000)
-flesh gordon (1974) 
+flesh gordon (1974)
 children of men (2006)
 
 On The Beach (1959)
@@ -164,7 +163,6 @@ the astronaut's wife (1999)
 The Island (2005)
 shredder orpheus (1989)
 The Beast (2023)
-Re-Animator (1985)
 
 Llamageddon
 
@@ -232,4 +230,11 @@ Paycheck (2003)
 Cypher (2002)
 
 the blue harvest sequels
+
+wargames (1983)
+wargames: the dead code (2008)
+hackers (1995)
+the net (1995)
+
+tron (1982)
 

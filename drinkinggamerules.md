@@ -26,7 +26,7 @@ Special start-of-movie rules, drink if the movie opens with a:
 | “reverse the polarity”                            |                                                                                     |
 | dude outside of spaceship for scale               |                                                                                     |
 | “it’s...Earth!?”                                  |                                                                                     |
-| “take a look at this”                             | exact match required                                                                |
+| “take a look at this”                             | exact match required, excepting "take a look at those [___]"                        |
 | “i’ve got something!”                             |                                                                                     |
 | yarn diagram                                      |                                                                                     |
 | species with non-red blood introduced             |                                                                                     |
@@ -38,7 +38,7 @@ Special start-of-movie rules, drink if the movie opens with a:
 | new york                                          |                                                                                     |
 | antagonists british/french                        |                                                                                     |
 | eye scar                                          |                                                                                     |
-| saloon/cantina                                    |                                                                                     |
+| saloon/cantina/rave                               |                                                                                     |
 | shot reuse                                        | "i didn't think it would trigger 3x literally every movie, but here we are"         |
 | grandfather paradox explanation                   |                                                                                     |
 | many-worlds theory explanation                    |                                                                                     |
@@ -80,7 +80,7 @@ Special start-of-movie rules, drink if the movie opens with a:
 | prophecy                                          |                                                                                     |
 | distant future year that has already passed       |                                                                                     |
 | slow ramp                                         |                                                                                     |
-|                                                   |                                                                                     |
+| accidental cultural marriage                      |                                                                                     |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
