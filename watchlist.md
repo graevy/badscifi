@@ -238,3 +238,21 @@ the net (1995)
 
 tron (1982)
 
+space precinct (1994)
+
+until the end of the world (1991)
+vesper (2022)
+immortal (2004)
+aniara (2018) (existential horror, dog dies i think)
+pontypool (2008)
+paprika (2007)
+dante 01 (2008)
+eden log (2007)
+on the silver globe (1988) (arthouse movie, 2h46m)
+possessor (2022)
+
+planet terror (2007)
+the omega man (1971)
+the girl with all the gifts (2016)
+the terminal man (1974)
+

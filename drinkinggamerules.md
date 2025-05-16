@@ -21,7 +21,7 @@ Special start-of-movie rules, drink if the movie opens with a:
 | title drop                                        | Exempt from 3x caveat, but exercise discretion for 1-word names. Includes text.     |
 | “quantum” technobabble                            |                                                                                     |
 | set visible                                       |                                                                                     |
-| “that’s a go/lf cart”                             |                                                                                     |
+| go/lf cart                                        |                                                                                     |
 | console sparks                                    |                                                                                     |
 | “reverse the polarity”                            |                                                                                     |
 | dude outside of spaceship for scale               |                                                                                     |
@@ -61,7 +61,7 @@ Special start-of-movie rules, drink if the movie opens with a:
 | soft vacuum                                       | Ignoring the effects of depressurization, or depressurizing unrealistically slowly. |
 | space aether                                      | "the thing that causes friction in space"                                           |
 | it’s gonna overload                               |                                                                                     |
-| conveniently close planet                         |                                                                                     |
+| conveniently close planet/asteroid field/nebula   |                                                                                     |
 | ventcrawl                                         |                                                                                     |
 | sacrifice to save your child                      |                                                                                     |
 | crash landing                                     |                                                                                     |
@@ -81,10 +81,10 @@ Special start-of-movie rules, drink if the movie opens with a:
 | distant future year that has already passed       |                                                                                     |
 | slow ramp                                         |                                                                                     |
 | accidental cultural marriage                      |                                                                                     |
-|                                                   |                                                                                     |
-|                                                   |                                                                                     |
-|                                                   |                                                                                     |
-|                                                   |                                                                                     |
+| "it's jammed"                                     |                                                                                     |
+| monster portal                                    |                                                                                     |
+| "life force"                                      |                                                                                     |
+| "the council"                                     |                                                                                     |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
