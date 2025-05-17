@@ -76,17 +76,17 @@ Special start-of-movie rules, drink if the movie opens with a:
 | warning shot                                      |                                                                                     |
 | it was all a dream                                |                                                                                     |
 | must've been the wind                             |                                                                                     |
-| "i'm in"                                          |                                                                                     |
+| "i'm in"                                          | also accept "we're in", "you're in", etc.                                           |
 | prophecy                                          |                                                                                     |
 | distant future year that has already passed       |                                                                                     |
-| slow ramp                                         |                                                                                     |
+| slow ramp/blast door                              |                                                                                     |
 | accidental cultural marriage                      |                                                                                     |
 | "it's jammed"                                     |                                                                                     |
 | monster portal                                    |                                                                                     |
 | "life force"                                      |                                                                                     |
 | "the council"                                     |                                                                                     |
-|                                                   |                                                                                     |
-|                                                   |                                                                                     |
+| "in english, four eyes"                           | no exact match required                                                             |
+| allegorical nature footage                        |                                                                                     |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |

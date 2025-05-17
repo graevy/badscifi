@@ -82,7 +82,6 @@ Southland Tales (2006)
 the time machine (2002)
 sentinel 2024
 replicant (2001)
-2001: A Space Travesty (2000)
 The Man Who Saved the World (1981)
 Chain Reaction (1996)
 9 (2009)
@@ -231,7 +230,6 @@ Cypher (2002)
 
 the blue harvest sequels
 
-wargames (1983)
 wargames: the dead code (2008)
 hackers (1995)
 the net (1995)
@@ -249,7 +247,7 @@ paprika (2007)
 dante 01 (2008)
 eden log (2007)
 on the silver globe (1988) (arthouse movie, 2h46m)
-possessor (2022)
+possessor (2020)
 
 planet terror (2007)
 the omega man (1971)
