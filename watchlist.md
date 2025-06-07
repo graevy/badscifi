@@ -92,7 +92,6 @@ the maze runner (2014)
 lost in space (1998)
 geostorm (2017)
 
-barb wire (1995)
 Masters of the Universe (1987)
 Krull (1983)
 The Ice Pirates (1984)
@@ -180,7 +179,6 @@ Fresh Kill (1994)
 War of the Worlds (2005)
 Attack the Block (2011)
 Belle (2021)
-Levels (2024)
 El Hoyo (2019)
 Ballistic: Ecks vs. Sever (2002)
 Serenity (2005)
@@ -208,7 +206,6 @@ Summer Wars (2009)
 Final Fantasy: The Spirits Within (2001)
 
 Animalia (2023)
-Europa Report (2013)
 
 Roller Blade (1986)
 Prayer For The Rollerboys (1990)
@@ -223,14 +220,12 @@ AGGRO DR1FT (2024)
 Serenity (2019)
 Smart House (1999)
 The Electric State (2025)
-invasion of the bee girls (1973)
 The Island (2005)
 Paycheck (2003)
 Cypher (2002)
 
 the blue harvest sequels
 
-wargames: the dead code (2008)
 hackers (1995)
 the net (1995)
 
@@ -253,4 +248,6 @@ planet terror (2007)
 the omega man (1971)
 the girl with all the gifts (2016)
 the terminal man (1974)
+
+the endless (2017) (horror, 1h51m)
 
