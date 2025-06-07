@@ -251,3 +251,10 @@ the terminal man (1974)
 
 the endless (2017) (horror, 1h51m)
 
+The Thing From Another World (1951)
+The History of Future Folk (2012)
+High-Rise (2015)
+The Signal (2014)
+Spaceman (2024)
+U Are the Universe (2024)
+
