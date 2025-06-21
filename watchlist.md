@@ -162,8 +162,6 @@ The Island (2005)
 shredder orpheus (1989)
 The Beast (2023)
 
-Llamageddon
-
 star wars the rise of skywalker
 everything everywhere all at once
 Andromeda strain
@@ -248,8 +246,6 @@ planet terror (2007)
 the omega man (1971)
 the girl with all the gifts (2016)
 the terminal man (1974)
-
-the endless (2017) (horror, 1h51m)
 
 The Thing From Another World (1951)
 The History of Future Folk (2012)
