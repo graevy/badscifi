@@ -24,21 +24,23 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | technobabble                                      | frequently: quantum, antimatter, variance, ion, \*-wave, phase, some particles      |
 | set visible                                       |                                                                                     |
 | console sparks                                    |                                                                                     |
-| “reverse the polarity”                            |                                                                                     |
-| dude outside of spaceship for scale               |                                                                                     |
+| “reverse the polarity”                            | arguably just technobabble but extremely specific                                   |
 | “it’s...Earth!?”                                  |                                                                                     |
 | “take a look at this”                             | exact match required, excepting "take a look at those []"                           |
 | “i’ve got something!”                             |                                                                                     |
-| it's now a sci-fi movie                           |                                                                                     |
-| it's now a heist movie                            |                                                                                     |
+| it's now a sci-fi movie                           | "when the movie suddenly becomes sci fi, or substantially more sci fi"              |
+| it's now a heist movie                            | this one can be harder to spot                                                      |
 | yarn diagram                                      |                                                                                     |
 | species with non-red blood introduced             |                                                                                     |
 | multiple suns/moons visible                       |                                                                                     |
 | “it’s...Earth!?”                                  |                                                                                     |
 | psychic nosebleed                                 |                                                                                     |
-| the "resistance"/"rebellion"                      |                                                                                     |
+| "the resistance"/"the rebellion"                  | a lot of these are just "generic name for something that should be specific"        |
 | “credits”                                         | "any generic sci fi currency"                                                       |
-| new york                                          |                                                                                     |
+| "the prophecy"                                    |                                                                                     |
+| "the black market"                                |                                                                                     |
+| "the council"                                     |                                                                                     |
+| future new york                                   |                                                                                     |
 | antagonists british/french                        | "antagonists refers to a faction, not an individual"                                |
 | eye scar                                          |                                                                                     |
 | cantina/rave/saloon                               |                                                                                     |
@@ -54,7 +56,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | sequel baiting                                    |                                                                                     |
 | brain largely unused                              |                                                                                     |
 | ledge walk                                        | having to walk onto a ledge, especially when one would reasonably expect guardrails |
-| dead progenitor civilization                      | "civilization" not a species designation but rather some faction, could be human    |
+| dead progenitor civilization                      | "civilization" is a *faction* designation, not a species designation                |
 | transparent monitor                               | why would anybody make a transparent monitor?                                       |
 | space drug                                        |                                                                                     |
 | escape pod                                        |                                                                                     |
@@ -66,27 +68,23 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | conveniently close planet/asteroid field/nebula   | these things are ordinarily very far apart                                          |
 | ventcrawl                                         |                                                                                     |
 | crash landing                                     |                                                                                     |
-| over the railing                                  |                                                                                     |
-| knocked prone by the explosion                    |                                                                                     |
+| knocked over the railing                          |                                                                                     |
 | cut the wire!                                     |                                                                                     |
 | sci-fi combat pit                                 | "not strictly a pit. includes gladiator arenas, raised platforms"                   |
-| they speak english                                | "any unexplained or egregiously implausible translator"                             |
+| they shouldn't speak english                      | "any unexplained or egregiously implausible translator"                             |
 | clone standoff                                    | when you aren't sure which is the clone                                             |
 | the president/prime minister/cabinet/joint chiefs |                                                                                     |
 | outrun the explosion                              |                                                                                     |
+| knocked prone by the explosion                    |                                                                                     |
 | it was all a dream                                |                                                                                     |
 | must've been the wind                             |                                                                                     |
 | "i'm in"                                          | also accept "we're in", "you're in", etc.                                           |
-| "the prophecy"                                    |                                                                                     |
-| "distant future year" that has already passed     |                                                                                     |
-| slow ramp/blast door                              |                                                                                     |
-| accidental cultural marriage                      |                                                                                     |
+| distant future year that has already passed       |                                                                                     |
+| slow ramp                                         | also includes blast doors                                                           |
+| accidental cultural marriage                      | usually egregiously racist                                                          |
 | "it's jammed"                                     |                                                                                     |
 | "life force"                                      |                                                                                     |
-| "the council"                                     |                                                                                     |
-| "in english, four eyes"                           | when we berate the group's Designated Nerd for assuming we know things              |
-| allegorical nature exposition                     | when animals or nature broadly is used to juxtapose a character or event            |
-| "the black market"                                |                                                                                     |
+| in english, four eyes                             | when we berate the group's Designated Nerd for assuming we know things              |
 | beam weapon collision                             |                                                                                     |
 | "enhance"                                         |                                                                                     |
 |                                                   |                                                                                     |
