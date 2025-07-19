@@ -247,7 +247,6 @@ the omega man (1971)
 the girl with all the gifts (2016)
 the terminal man (1974)
 
-The Thing From Another World (1951)
 The History of Future Folk (2012)
 High-Rise (2015)
 The Signal (2014)
@@ -255,3 +254,7 @@ Spaceman (2024)
 U Are the Universe (2024)
 
 Thumb Wars: The Phantom Cuticle (1999)
+
+Future Fear (1997)
+Future Fear (2021)
+
