@@ -66,6 +66,19 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | it was all a dream                                |                                                                                     |
 | they shouldn't speak english                      | "any unexplained or egregiously implausible translator"                             |
 | sequel baiting                                    |                                                                                     |
+| suddenly a heist movie                            |                                                                                     |
+|                                                   |                                                                                     |
+|                                                   |                                                                                     |
+| *Uncomfortable Watch*                             |                                                                                     |
+|                                                   |                                                                                     |
+| slur                                              |                                                                                     |
+| gender swap                                       | only if surprising or played for laughs                                             |
+| minority dies first                               |                                                                                     |
+|                                                   |                                                                                     |
+| *Why does this exist*                             |                                                                                     |
+|                                                   |                                                                                     |
+| transparent monitor                               | why would anybody make a transparent monitor?                                       |
+| slow ramp                                         | also includes blast doors                                                           |
 |                                                   |                                                                                     |
 | *Uncategorized*                                   |                                                                                     |
 |                                                   |                                                                                     |
@@ -74,8 +87,6 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | accidental cultural marriage                      | usually egregiously racist                                                          |
 | the president/prime minister/cabinet/joint chiefs |                                                                                     |
 | space drug                                        |                                                                                     |
-| uncomfortable slur                                |                                                                                     |
-| gender swap                                       |                                                                                     |
 | human is actually nonhuman                        |                                                                                     |
 | eyes open after zoom-in                           | "when the camera zooms in on a character and they dramatically open their eyes"     |
 | stormtrooper aim                                  | "when you would realistically expect someone to get shot but they don't"            |
@@ -88,14 +99,12 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | eye scar                                          |                                                                                     |
 | cantina/rave/saloon                               |                                                                                     |
 | it's now a sci-fi movie                           | "when the movie suddenly becomes sci fi, or substantially more sci fi"              |
-| it's now a heist movie                            | this one can be harder to spot                                                      |
 | wormhole                                          |                                                                                     |
 | steampunk monocle                                 |                                                                                     |
 | self-destruct countdown                           |                                                                                     |
 | defibrillator                                     |                                                                                     |
 | opening the door with the guard’s body            | includes the (incapacitated) guard's badge, scan, voice, whatever                   |
 | ledge walk                                        | having to walk onto a ledge, especially when one would reasonably expect guardrails |
-| transparent monitor                               | why would anybody make a transparent monitor?                                       |
 | escape pod                                        |                                                                                     |
 | shoot the lock                                    | Not limited to just shooting                                                        |
 | walks into forcefield                             |                                                                                     |
@@ -103,15 +112,12 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | space aether                                      | "the stuff that causes friction in space"                                           |
 | it’s gonna overload                               |                                                                                     |
 | ventcrawl                                         |                                                                                     |
-| crash landing                                     |                                                                                     |
 | knocked over the railing                          |                                                                                     |
 | cut the wire!                                     |                                                                                     |
 | sci-fi combat pit                                 | "not strictly a pit. includes gladiator arenas, raised platforms"                   |
 | clone standoff                                    | when you aren't sure which is the clone                                             |
 | outrun the explosion                              |                                                                                     |
 | knocked prone by the explosion                    |                                                                                     |
-| must've been the wind                             |                                                                                     |
-| slow ramp                                         | also includes blast doors                                                           |
 | in english, four eyes                             | when we berate the group's Designated Nerd for assuming we know things              |
 | beam weapon collision                             |                                                                                     |
 |                                                   |                                                                                     |

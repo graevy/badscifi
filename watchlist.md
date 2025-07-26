@@ -51,7 +51,7 @@ Signs
 Better than us
 
 Akira
-knight's of sidonia
+knights of sidonia
 Redline (1997)
 The lawnmower man
 Ivan Vasilovich Changes Professions
@@ -61,8 +61,6 @@ Idiocracy
 flash gordon
 Electric Sheep
 enemy mine 1985
-arrival 2016
-
 
 the day the earth stood still
 wild zero
@@ -97,8 +95,6 @@ Krull (1983)
 The Ice Pirates (1984)
 From Beyond (1986)
 
-
-Cocaine Crabs from Outer Space (2022)
 Project Shadowchaser (1992)
 Garm Wars: The Last Druid (2014)
 
@@ -145,7 +141,7 @@ Dark Fury, 2004
 the running man 1987
 mad max 1978
 the predator movies
-The Void War: Grey Horizons
+The Void War: Grey Horizons (2023)
 We Are The Strange
 
 Bliss 2021
@@ -253,8 +249,9 @@ The Signal (2014)
 Spaceman (2024)
 U Are the Universe (2024)
 
-Thumb Wars: The Phantom Cuticle (1999)
-
 Future Fear (1997)
 Future Fear (2021)
+
+Cyber-C.H.I.C. (1990)
+Bug Wars (2000)
 
