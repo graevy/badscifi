@@ -177,8 +177,6 @@ El Hoyo (2019)
 Ballistic: Ecks vs. Sever (2002)
 Serenity (2005)
 Assassin (2023)
-Time Chasers (1994)
-
 Moon Trap: Target Earth (2017)
 
 The Hunger Games: Catching Fire (2013)
@@ -225,8 +223,6 @@ the net (1995)
 
 tron (1982)
 
-space precinct (1994)
-
 until the end of the world (1991)
 vesper (2022)
 immortal (2004)
@@ -254,4 +250,4 @@ Future Fear (2021)
 
 Cyber-C.H.I.C. (1990)
 Bug Wars (2000)
-
+Droid (1988)
