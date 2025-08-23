@@ -72,7 +72,6 @@ End of Eternity
 the titan (2018)
 weird science 1985
 Lightyear (2022)
-SCP overlord (2020)
 The Philadelphia experiment 2012
 Red Faction: Origins, 2011
 
@@ -96,7 +95,6 @@ The Ice Pirates (1984)
 From Beyond (1986)
 
 Project Shadowchaser (1992)
-Garm Wars: The Last Druid (2014)
 
 high life (2018)
 THX-1138 (1971)
@@ -105,7 +103,6 @@ the host (2006)
 
 a scanner darkly
 congress
-videodrome 1983
 
 ex machina (2014)
 godzilla 1954
@@ -137,7 +134,7 @@ E.T. (1982)
 Moonraker (1979)
 Poor Things (2023)
 The Postman (1997)
-Dark Fury, 2004
+Dark Fury (2004)
 the running man 1987
 mad max 1978
 the predator movies
@@ -225,7 +222,6 @@ tron (1982)
 
 until the end of the world (1991)
 vesper (2022)
-immortal (2004)
 aniara (2018) (existential horror, dog dies i think)
 pontypool (2008)
 paprika (2007)
@@ -250,4 +246,4 @@ Future Fear (2021)
 
 Cyber-C.H.I.C. (1990)
 Bug Wars (2000)
-Droid (1988)
+Droid (1988) (a re-cut porn movie without the porn)
