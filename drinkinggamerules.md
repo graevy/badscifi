@@ -7,7 +7,7 @@ Special start-of-movie rules, drink if the movie opens with a:
 - spaceship
 - star-wars text scroll
 - voiceover
-- "distant future year" that has already passed
+- *distant future year* that has already passed
 
 The definition of "drink" includes smoking something, or drinking water if you're tapped out.
 
@@ -66,12 +66,11 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | it was all a dream                                |                                                                                     |
 | they shouldn't speak english                      | "any unexplained or egregiously implausible translator"                             |
 | sequel baiting                                    |                                                                                     |
-| suddenly a heist movie                            |                                                                                     |
-|                                                   |                                                                                     |
+| suddenly a heist movie                            | "suddenly gathering an old crew back together to complete one last job" or similar  |
 |                                                   |                                                                                     |
 | *Uncomfortable Watch*                             |                                                                                     |
 |                                                   |                                                                                     |
-| slur                                              |                                                                                     |
+| slur                                              | ?                                                                                   |
 | gender swap                                       | only if surprising or played for laughs                                             |
 | minority dies first                               |                                                                                     |
 |                                                   |                                                                                     |
@@ -79,6 +78,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 |                                                   |                                                                                     |
 | transparent monitor                               | why would anybody make a transparent monitor?                                       |
 | slow ramp                                         | also includes blast doors                                                           |
+| console sparks                                    | have you tried a surge protector?                                                   |
 |                                                   |                                                                                     |
 | *Uncategorized*                                   |                                                                                     |
 |                                                   |                                                                                     |
@@ -90,7 +90,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | human is actually nonhuman                        |                                                                                     |
 | eyes open after zoom-in                           | "when the camera zooms in on a character and they dramatically open their eyes"     |
 | stormtrooper aim                                  | "when you would realistically expect someone to get shot but they don't"            |
-| console sparks                                    |                                                                                     |
+| time travel to present day                        | present being roughly the era the movie was made                                    |
 | yarn diagram                                      |                                                                                     |
 | species with non-red blood introduced             |                                                                                     |
 | multiple suns/moons visible                       |                                                                                     |
