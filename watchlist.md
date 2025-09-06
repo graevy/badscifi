@@ -20,7 +20,6 @@ thirteenth floor
 
 screamers: the haunting (2009)
 annihilation sequel?
-Oblivion (2013)
 anon 2018
 red planet 2000
 
@@ -216,7 +215,6 @@ Cypher (2002)
 the blue harvest sequels
 
 hackers (1995)
-the net (1995)
 
 tron (1982)
 
