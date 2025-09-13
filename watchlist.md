@@ -109,7 +109,6 @@ stalker 1979
 
 Upgrade (2018)
 
-it conquered the world (1956)
 cube (1997) (horror)
 A.P.E.X. (1994)
 nemesis (1992)
@@ -244,4 +243,9 @@ Future Fear (2021)
 
 Cyber-C.H.I.C. (1990)
 Bug Wars (2000)
-Droid (1988) (a re-cut porn movie without the porn)
+Droid (1988) (re-cut porn movies without the porn)
+
+The Hidden (1987)
+Lady Battle Cop (1990) (japanese robocop slop)
+Phase IV (1974)
+
