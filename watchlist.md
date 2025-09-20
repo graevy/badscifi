@@ -8,8 +8,6 @@ iBoy
 Downsizing
 Existenz (1999)
 Battle Beyond The Stars (1980)
-Edge of Tomorrow/Live Die Repeat (2014)
-
 
 clockstoppers 2002
 
@@ -105,7 +103,6 @@ congress
 
 ex machina (2014)
 godzilla 1954
-stalker 1979
 
 Upgrade (2018)
 

@@ -39,8 +39,8 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | "the prophecy"                                    |                                                                                     |
 | "the black market"                                |                                                                                     |
 | "the council"                                     |                                                                                     |
+| "the empire"                                      |                                                                                     |
 | "the resistance"/"the rebellion"                  | a lot of these are just "generic name for something that should be specific"        |
-|                                                   |                                                                                     |
 |                                                   |                                                                                     |
 | *Tropes*                                          |                                                                                     |
 |                                                   |                                                                                     |
@@ -54,7 +54,6 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | “it’s...Earth!?”                                  |                                                                                     |
 | “take a look at this”                             | exact match required, excepting "take a look at those []"                           |
 | “i’ve got something!”                             |                                                                                     |
-| “it’s...Earth!?”                                  |                                                                                     |
 | "i'm in"                                          | also accept "we're in", "you're in", etc.                                           |
 | "it's jammed"                                     |                                                                                     |
 | "life force"                                      |                                                                                     |
@@ -62,11 +61,11 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 |                                                   |                                                                                     |
 | *Clumsy Plot*                                     |                                                                                     |
 |                                                   |                                                                                     |
-| conveniently close planet/asteroid field/nebula   | these things are ordinarily very far apart                                          |
 | it was all a dream                                |                                                                                     |
+| conveniently close planet/asteroid field/nebula   | these things are ordinarily very far apart                                          |
 | they shouldn't speak english                      | "any unexplained or egregiously implausible translator"                             |
 | sequel baiting                                    |                                                                                     |
-| suddenly a heist movie                            | "suddenly gathering an old crew back together to complete one last job" or similar  |
+| suddenly a heist movie                            | "abruptly gathering an old crew back together to complete one last job" or similar  |
 |                                                   |                                                                                     |
 | *Uncomfortable Watch*                             |                                                                                     |
 |                                                   |                                                                                     |
@@ -120,9 +119,8 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | knocked prone by the explosion                    |                                                                                     |
 | in english, four eyes                             | when we berate the group's Designated Nerd for assuming we know things              |
 | beam weapon collision                             |                                                                                     |
-|                                                   |                                                                                     |
-|                                                   |                                                                                     |
-|                                                   |                                                                                     |
+| strange organ                                     | oddly-specific category of organ sci fi; human-but-with-another-organ!              |
+| death promotion                                   | when someone gets promoted explicitly because someone died                          |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
