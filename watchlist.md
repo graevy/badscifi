@@ -43,6 +43,8 @@ Tremors III
 Evolution (2001)
 Dragons Heaven 1988
 Big Hero 6 (2014)
+Trancers (1984)
+Trancers II (1991)
 Trancers III (1992)
 Signs
 Better than us
@@ -245,4 +247,10 @@ Droid (1988) (re-cut porn movies without the porn)
 The Hidden (1987)
 Lady Battle Cop (1990) (japanese robocop slop)
 Phase IV (1974)
+
+The Last Starfighter (1984)
+Solarbabies (1986)
+Explorers (1985)
+Hardware (1990)
+
 
