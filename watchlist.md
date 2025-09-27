@@ -16,7 +16,7 @@ the city of lost children 1995 (mid)
 
 thirteenth floor
 
-screamers: the haunting (2009)
+screamers: the hunting (2009)
 annihilation sequel?
 anon 2018
 red planet 2000
@@ -67,7 +67,6 @@ wild zero
 heavy metal
 tetsuo the iron man
 
-End of Eternity
 the titan (2018)
 weird science 1985
 Lightyear (2022)
@@ -124,7 +123,6 @@ children of men (2006)
 
 On The Beach (1959)
 Nausicaä of the Valley of the Wind (1984)
-28 Days Later
 4k77
 
 E.T. (1982)
@@ -252,5 +250,4 @@ The Last Starfighter (1984)
 Solarbabies (1986)
 Explorers (1985)
 Hardware (1990)
-
 

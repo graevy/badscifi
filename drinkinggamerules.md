@@ -121,7 +121,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | beam weapon collision                             |                                                                                     |
 | strange organ                                     | oddly-specific category of organ sci fi; human-but-with-another-organ!              |
 | death promotion                                   | when someone gets promoted explicitly because someone died                          |
-|                                                   |                                                                                     |
+| deja vu                                           | when something changes on-screen, usually because of time stuff. ignore the brains! |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
