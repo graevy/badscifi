@@ -150,7 +150,6 @@ The Island (2005)
 shredder orpheus (1989)
 The Beast (2023)
 
-star wars the rise of skywalker
 everything everywhere all at once
 Andromeda strain
 Crime Zone (1988)
@@ -249,5 +248,33 @@ Phase IV (1974)
 The Last Starfighter (1984)
 Solarbabies (1986)
 Explorers (1985)
-Hardware (1990)
+
+The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)
+Laserblast (1978)
+Splice (2009)
+Megaforce (1982)
+Dark Universe (1993) (1h23)
+Dünyayı Kurtaran Adam (1982) (1h31)
+Hell Comes to Frogtown (1988) (1h26)
+Space Milkshake (2012)
+Night of the Lepus (1972) (1h28)
+Space Hunter: Adventures in the Forbidden Zone (1983) (1h30)
+Trail of the Screaming Forehead (2007) (1h28) (very interested. larry blamire)
+Hardware (1990) (1h34)
+Virtuosity (1995) (1h46)
+Strange Days (1995) (2h25)
+Death Race 2000 (1975) (1h20) (we've definitely already watched this)
+Night of the Comet (1984) (1h35)
+
+Replicas (2018)
+I Am Mother (2019) (1h53)
+The Final Cut (2004) (1h35)
+The Black Hole (1979) (1h38) (disney made this for some reason)
+The Incredible Shrinking Wknd (2019) (1h33)
+The Manhattan Project (1986) (1h57)
+
+88:88 (2012) (14mins)
+Eidolon (2015) (19mins)
+
+Franklyn (2008) (1h35)
 

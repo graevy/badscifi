@@ -51,13 +51,15 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 |                                                   |                                                                                     |
 | *Dialogue*                                        |                                                                                     |
 |                                                   |                                                                                     |
-| “it’s...Earth!?”                                  |                                                                                     |
 | “take a look at this”                             | exact match required, excepting "take a look at those []"                           |
-| “i’ve got something!”                             |                                                                                     |
 | "i'm in"                                          | also accept "we're in", "you're in", etc.                                           |
+| “i’ve got something!”                             |                                                                                     |
 | "it's jammed"                                     |                                                                                     |
 | "life force"                                      |                                                                                     |
 | "enhance"                                         |                                                                                     |
+| "someone...or...someTHING!"                       | also accept "who...or what", etc.; this one's pretty lenient.                       |
+| “it’s...Earth!?”                                  |                                                                                     |
+|                                                   |                                                                                     |
 |                                                   |                                                                                     |
 | *Clumsy Plot*                                     |                                                                                     |
 |                                                   |                                                                                     |
@@ -122,7 +124,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | strange organ                                     | oddly-specific category of organ sci fi; human-but-with-another-organ!              |
 | death promotion                                   | when someone gets promoted explicitly because someone died                          |
 | deja vu                                           | when something changes on-screen, usually because of time stuff. ignore the brains! |
-|                                                   |                                                                                     |
+| first pun of the movie                            |                                                                                     |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
