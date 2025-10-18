@@ -75,7 +75,6 @@ Red Faction: Origins, 2011
 
 Southland Tales (2006)
 the time machine (2002)
-sentinel 2024
 replicant (2001)
 The Man Who Saved the World (1981)
 Chain Reaction (1996)
@@ -88,7 +87,6 @@ lost in space (1998)
 geostorm (2017)
 
 Masters of the Universe (1987)
-Krull (1983)
 The Ice Pirates (1984)
 From Beyond (1986)
 
@@ -177,7 +175,6 @@ The Hunger Games: Mockingjay - Part 2 (2015)
 The 6th Day (2000)
 What Happened to Monday (2017)
 
-The Island (2005)
 The Man Who Fell to Earth (1976)
 
 supernova (2000)
@@ -203,7 +200,6 @@ AGGRO DR1FT (2024)
 Serenity (2019)
 Smart House (1999)
 The Electric State (2025)
-The Island (2005)
 Paycheck (2003)
 Cypher (2002)
 
