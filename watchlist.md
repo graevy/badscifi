@@ -28,7 +28,7 @@ watchmen 2009
 universal soldier
 Universal soldier the return
 
-The Virus (1999)
+Virus (1999)
 real genius 1985
 Land of the lost (2009)
 Stealth (2005)
@@ -53,12 +53,11 @@ Akira
 knights of sidonia
 Redline (1997)
 The lawnmower man
-Ivan Vasilovich Changes Professions
+Ivan Vasilyevich Changes His Profession (1973)
 Solaris (1972)
 Dr. Horrible’s Sing Along Blog
 Idiocracy
 flash gordon
-Electric Sheep
 enemy mine 1985
 
 the day the earth stood still
@@ -78,8 +77,6 @@ the time machine (2002)
 replicant (2001)
 The Man Who Saved the World (1981)
 Chain Reaction (1996)
-9 (2009)
-liquid sky
 
 barbarella 1998
 the maze runner (2014)
@@ -120,26 +117,22 @@ flesh gordon (1974)
 children of men (2006)
 
 On The Beach (1959)
-Nausicaä of the Valley of the Wind (1984)
 4k77
 
-E.T. (1982)
 Moonraker (1979)
 Poor Things (2023)
 The Postman (1997)
-Dark Fury (2004)
+Dark Fury (2004) (34m)
 the running man 1987
-mad max 1978
+mad max 1979
 the predator movies
 The Void War: Grey Horizons (2023)
 We Are The Strange
 
 Bliss 2021
 R.i.p.d
-tron4tron
 
 Flatland: The Film (2007 Ehlinger film) (YoutubeID: avMX-Zft7K4 )
-time masters (1982)
 2010: the year we make contact (1984)
 
 the astronaut's wife (1999)
@@ -151,7 +144,6 @@ The Beast (2023)
 everything everywhere all at once
 Andromeda strain
 Crime Zone (1988)
-bourne identity (2002)
 
 demon seed (1977)
 frequency (2000)
@@ -161,12 +153,11 @@ The Purple Ball (1987)
 Fresh Kill (1994)
 War of the Worlds (2005)
 Attack the Block (2011)
-Belle (2021)
 El Hoyo (2019)
 Ballistic: Ecks vs. Sever (2002)
 Serenity (2005)
 Assassin (2023)
-Moon Trap: Target Earth (2017)
+Moontrap: Target Earth (2017)
 
 The Hunger Games: Catching Fire (2013)
 The Hunger Games: Mockingjay - Part 1 (2014)
@@ -187,8 +178,7 @@ Final Fantasy: The Spirits Within (2001)
 
 Animalia (2023)
 
-Roller Blade (1986)
-Prayer For The Rollerboys (1990)
+Prayer Of The Rollerboys (1990)
 moon child (2003)
 Oresama (2004)
 Transformers (2007)
@@ -198,7 +188,6 @@ John Carter 2 (2025)
 Hot Tub Time Machine (2010)
 AGGRO DR1FT (2024)
 Serenity (2019)
-Smart House (1999)
 The Electric State (2025)
 Paycheck (2003)
 Cypher (2002)
@@ -254,8 +243,7 @@ Dünyayı Kurtaran Adam (1982) (1h31)
 Hell Comes to Frogtown (1988) (1h26)
 Space Milkshake (2012)
 Night of the Lepus (1972) (1h28)
-Space Hunter: Adventures in the Forbidden Zone (1983) (1h30)
-Trail of the Screaming Forehead (2007) (1h28) (very interested. larry blamire)
+Spacehunter: Adventures in the Forbidden Zone (1983) (1h30)
 Hardware (1990) (1h34)
 Virtuosity (1995) (1h46)
 Strange Days (1995) (2h25)
@@ -273,4 +261,6 @@ The Manhattan Project (1986) (1h57)
 Eidolon (2015) (19mins)
 
 Franklyn (2008) (1h35)
+a.x.l. (2018)
+Mercy (2026)
 
