@@ -59,7 +59,8 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | "enhance"                                         |                                                                                     |
 | "someone...or...someTHING!"                       | also accept "who...or what", etc.; this one's pretty lenient.                       |
 | “it’s...Earth!?”                                  |                                                                                     |
-|                                                   |                                                                                     |
+| "some kind/sort/form of"/"of some kind/sort/form" |                                                                                     |
+| "it’s gonna overload!"                            | very lenient. an "overload" is going to cause an explosion                          |
 |                                                   |                                                                                     |
 | *Clumsy Plot*                                     |                                                                                     |
 |                                                   |                                                                                     |
@@ -80,6 +81,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | transparent monitor                               | why would anybody make a transparent monitor?                                       |
 | slow ramp                                         | also includes blast doors                                                           |
 | console sparks                                    | have you tried a surge protector?                                                   |
+| hexagonal hallway                                 | it's not practical to manufacture. it's not space-efficient. every ship has them    |
 |                                                   |                                                                                     |
 | *Uncategorized*                                   |                                                                                     |
 |                                                   |                                                                                     |
@@ -111,7 +113,6 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | walks into forcefield                             |                                                                                     |
 | soft vacuum                                       | Ignoring the effects of depressurization, or depressurizing unrealistically slowly. |
 | space aether                                      | "the stuff that causes friction in space"                                           |
-| it’s gonna overload                               |                                                                                     |
 | ventcrawl                                         |                                                                                     |
 | knocked over the railing                          |                                                                                     |
 | cut the wire!                                     |                                                                                     |
@@ -125,6 +126,6 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | death promotion                                   | when someone gets promoted explicitly because someone died                          |
 | deja vu                                           | when something changes on-screen, usually because of time stuff. ignore the brains! |
 | first pun of the movie                            |                                                                                     |
-| hexagonal hallway                                 |                                                                                     |
+| vertical stairwell shot                           | directors are so horny for these                                                    |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |

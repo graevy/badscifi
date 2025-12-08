@@ -1,7 +1,11 @@
+entries should ideally be "Name (year) (running time) symbols"
++: io thinks exceptionally good for sci fi night
+!: io thinks potential triggers that would prevent it from being watched (e.g. SA scenes, racism, queerphobia)
+
 brainstorm 1983
 
 A Clockwork Orange (1971)
-Zardoz (1974)
+Zardoz (1974) !
 Logan’s Run (1976)
 
 iBoy
@@ -24,7 +28,7 @@ red planet 2000
 Fortress (1992)
 watchmen 2009
 
-12 Monkeys
+12 Monkeys !
 universal soldier
 Universal soldier the return
 
@@ -106,11 +110,11 @@ cube (1997) (horror)
 A.P.E.X. (1994)
 nemesis (1992)
 predestination (2014)
-the quiet earth (1985)
+the quiet earth (1985) +
 Silent Running (1972)
 K-PAX (2001)
 planet of the apes (1968)
-plan 10 from outer space (1994)
+plan 10 from outer space (1994) +
 PG: Psycho Goreman (2020)
 mission to mars (2000)
 flesh gordon (1974)
@@ -141,11 +145,10 @@ The Island (2005)
 shredder orpheus (1989)
 The Beast (2023)
 
-everything everywhere all at once
+everything everywhere all at once +
 Andromeda strain
 Crime Zone (1988)
 
-demon seed (1977)
 frequency (2000)
 
 The Purple Ball (1987)
@@ -153,8 +156,7 @@ The Purple Ball (1987)
 Fresh Kill (1994)
 War of the Worlds (2005)
 Attack the Block (2011)
-El Hoyo (2019)
-Ballistic: Ecks vs. Sever (2002)
+El Hoyo (2019) !
 Serenity (2005)
 Assassin (2023)
 Moontrap: Target Earth (2017)
@@ -184,7 +186,6 @@ Oresama (2004)
 Transformers (2007)
 flight of the navigator (1986)
 La Planète sauvage (1973)
-John Carter 2 (2025)
 Hot Tub Time Machine (2010)
 AGGRO DR1FT (2024)
 Serenity (2019)
@@ -199,7 +200,7 @@ hackers (1995)
 tron (1982)
 
 until the end of the world (1991)
-vesper (2022)
+vesper (2022) !
 aniara (2018) (existential horror, dog dies i think)
 pontypool (2008)
 paprika (2007)
@@ -223,8 +224,8 @@ Future Fear (1997)
 Future Fear (2021)
 
 Cyber-C.H.I.C. (1990)
-Bug Wars (2000)
-Droid (1988) (re-cut porn movies without the porn)
+Bug Wars (2000) +
+Droid (1988) (re-cut porn movies without the porn) +
 
 The Hidden (1987)
 Lady Battle Cop (1990) (japanese robocop slop)
@@ -234,7 +235,6 @@ The Last Starfighter (1984)
 Solarbabies (1986)
 Explorers (1985)
 
-The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)
 Laserblast (1978)
 Splice (2009)
 Megaforce (1982)
@@ -263,4 +263,26 @@ Eidolon (2015) (19mins)
 Franklyn (2008) (1h35)
 a.x.l. (2018)
 Mercy (2026)
+
+I Come in Peace (1990) !
+The Machine (2023) !
+
+Coherence (2013) (1h29) +
+The Beyond (2017) (1h43) +
+Prospect (2018) (1h38)
+QEDA/"Man Divided" (2017) (1h27) (danish, need eng sub)
+Autómata (2014) (1h50)
+Astronaut: The Last Push (2012) (1h30)
+EVA (2011) (1h34)
+Cargo (2009) (2h)
+Timecrimes (2007) (1h32)
+Kin-dza-dza! (1986) (2h15)
+
+Cat People (1982)
+Oxygen (2021)
+Terra Formars (2016)
+Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003)
+Companion (2025)
+Wax or the Discovery of Television Among the Bees (1991)
+Shin Godzilla (2016)
 
