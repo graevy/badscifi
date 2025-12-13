@@ -5,7 +5,6 @@ entries should ideally be "Name (year) (running time) symbols"
 brainstorm 1983
 
 A Clockwork Orange (1971)
-Zardoz (1974) !
 Logan’s Run (1976)
 
 iBoy
