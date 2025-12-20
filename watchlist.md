@@ -27,7 +27,6 @@ red planet 2000
 Fortress (1992)
 watchmen 2009
 
-12 Monkeys !
 universal soldier
 Universal soldier the return
 
@@ -56,7 +55,6 @@ Akira
 knights of sidonia
 Redline (1997)
 The lawnmower man
-Ivan Vasilyevich Changes His Profession (1973)
 Solaris (1972)
 Dr. Horrible’s Sing Along Blog
 Idiocracy
@@ -126,7 +124,6 @@ Moonraker (1979)
 Poor Things (2023)
 The Postman (1997)
 Dark Fury (2004) (34m)
-the running man 1987
 mad max 1979
 the predator movies
 The Void War: Grey Horizons (2023)
@@ -236,7 +233,6 @@ Explorers (1985)
 
 Laserblast (1978)
 Splice (2009)
-Megaforce (1982)
 Dark Universe (1993) (1h23)
 Dünyayı Kurtaran Adam (1982) (1h31)
 Hell Comes to Frogtown (1988) (1h26)
@@ -266,7 +262,6 @@ Mercy (2026)
 I Come in Peace (1990) !
 The Machine (2023) !
 
-Coherence (2013) (1h29) +
 The Beyond (2017) (1h43) +
 Prospect (2018) (1h38)
 QEDA/"Man Divided" (2017) (1h27) (danish, need eng sub)
