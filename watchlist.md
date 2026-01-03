@@ -56,7 +56,6 @@ knights of sidonia
 Redline (1997)
 The lawnmower man
 Solaris (1972)
-Dr. Horrible’s Sing Along Blog
 Idiocracy
 flash gordon
 enemy mine 1985
@@ -120,7 +119,6 @@ children of men (2006)
 On The Beach (1959)
 4k77
 
-Moonraker (1979)
 Poor Things (2023)
 The Postman (1997)
 Dark Fury (2004) (34m)
@@ -200,7 +198,7 @@ vesper (2022) !
 aniara (2018) (existential horror, dog dies i think)
 pontypool (2008)
 paprika (2007)
-dante 01 (2008)
+dante 01 (2008) !
 eden log (2007)
 on the silver globe (1988) (arthouse movie, 2h46m)
 possessor (2020)
@@ -260,7 +258,7 @@ a.x.l. (2018)
 Mercy (2026)
 
 I Come in Peace (1990) !
-The Machine (2023) !
+The Machine (2013) !
 
 The Beyond (2017) (1h43) +
 Prospect (2018) (1h38)
