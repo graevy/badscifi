@@ -109,7 +109,6 @@ predestination (2014)
 the quiet earth (1985) +
 Silent Running (1972)
 K-PAX (2001)
-planet of the apes (1968)
 plan 10 from outer space (1994) +
 PG: Psycho Goreman (2020)
 mission to mars (2000)
@@ -170,7 +169,6 @@ AVH: Alien Vs Hunter (2007)
 30,000 Leagues Under The Sea (2007)
 Communion (1989)
 Summer Wars (2009)
-Final Fantasy: The Spirits Within (2001)
 
 Animalia (2023)
 
@@ -263,7 +261,6 @@ The Machine (2013) !
 The Beyond (2017) (1h43) +
 Prospect (2018) (1h38)
 QEDA/"Man Divided" (2017) (1h27) (danish, need eng sub)
-Autómata (2014) (1h50)
 Astronaut: The Last Push (2012) (1h30)
 EVA (2011) (1h34)
 Cargo (2009) (2h)
@@ -277,4 +274,6 @@ Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003)
 Companion (2025)
 Wax or the Discovery of Television Among the Bees (1991)
 Shin Godzilla (2016)
+
+The Day of the Triffids (1963) (93)
 
