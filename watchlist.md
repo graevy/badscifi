@@ -104,7 +104,6 @@ Upgrade (2018)
 
 cube (1997) (horror)
 A.P.E.X. (1994)
-nemesis (1992)
 predestination (2014)
 the quiet earth (1985) +
 Silent Running (1972)
@@ -121,13 +120,12 @@ On The Beach (1959)
 Poor Things (2023)
 The Postman (1997)
 Dark Fury (2004) (34m)
-mad max 1979
+mad max 1979 !
 the predator movies
 The Void War: Grey Horizons (2023)
 We Are The Strange
 
 Bliss 2021
-R.i.p.d
 
 Flatland: The Film (2007 Ehlinger film) (YoutubeID: avMX-Zft7K4 )
 2010: the year we make contact (1984)
@@ -176,9 +174,9 @@ Prayer Of The Rollerboys (1990)
 moon child (2003)
 Oresama (2004)
 Transformers (2007)
-flight of the navigator (1986)
+flight of the navigator (1986) !
 La Planète sauvage (1973)
-Hot Tub Time Machine (2010)
+Hot Tub Time Machine (2010) !
 AGGRO DR1FT (2024)
 Serenity (2019)
 The Electric State (2025)
@@ -275,5 +273,5 @@ Companion (2025)
 Wax or the Discovery of Television Among the Bees (1991)
 Shin Godzilla (2016)
 
-The Day of the Triffids (1963) (93)
+The Day of the Triffids (1963) (1h33)
 
