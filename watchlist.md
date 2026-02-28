@@ -168,8 +168,6 @@ AVH: Alien Vs Hunter (2007)
 Communion (1989)
 Summer Wars (2009)
 
-Animalia (2023)
-
 Prayer Of The Rollerboys (1990)
 moon child (2003)
 Oresama (2004)
@@ -222,7 +220,6 @@ Lady Battle Cop (1990) (japanese robocop slop)
 Phase IV (1974)
 
 The Last Starfighter (1984)
-Solarbabies (1986)
 Explorers (1985)
 
 Laserblast (1978)
