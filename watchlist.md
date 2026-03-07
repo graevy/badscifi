@@ -2,8 +2,6 @@ entries should ideally be "Name (year) (running time) symbols"
 +: io thinks exceptionally good for sci fi night
 !: io thinks potential triggers that would prevent it from being watched (e.g. SA scenes, racism, queerphobia)
 
-brainstorm 1983
-
 A Clockwork Orange (1971)
 Logan’s Run (1976)
 
@@ -145,7 +143,6 @@ frequency (2000)
 The Purple Ball (1987)
 
 Fresh Kill (1994)
-War of the Worlds (2005)
 Attack the Block (2011)
 El Hoyo (2019) !
 Serenity (2005)

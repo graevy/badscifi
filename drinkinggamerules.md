@@ -53,6 +53,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 |                                                   |                                                                                     |
 | “take a look at this”                             | exact match required, excepting "take a look at those []"                           |
 | "i'm in"                                          | also accept "we're in", "you're in", etc.                                           |
+| "run a trace"                                     | very flexible                                                                       |
 | “i’ve got something!”                             |                                                                                     |
 | "it's jammed"                                     |                                                                                     |
 | "life force"                                      |                                                                                     |
