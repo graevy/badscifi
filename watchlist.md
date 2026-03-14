@@ -33,7 +33,6 @@ real genius 1985
 Land of the lost (2009)
 Stealth (2005)
 
-Tenet (2020)
 metropolis 1927
 flatliners 1990
 
@@ -214,7 +213,6 @@ Droid (1988) (re-cut porn movies without the porn) +
 
 The Hidden (1987)
 Lady Battle Cop (1990) (japanese robocop slop)
-Phase IV (1974)
 
 The Last Starfighter (1984)
 Explorers (1985)
@@ -268,4 +266,14 @@ Wax or the Discovery of Television Among the Bees (1991)
 Shin Godzilla (2016)
 
 The Day of the Triffids (1963) (1h33)
+
+Nirvanna the Band the Show the Movie (2025)
+Bugonia (2025)
+Avalon (2001)
+Attack of the Killer Tomatoes (1978)
+Feeders 2: Sleigh Bells (1998)
+The Rocketeer (1991)
+Predator: Badlands (2025)
+First Men on the Moon (1964) (1h43)
+Phase 7 (2010) (1h35)
 
