@@ -279,3 +279,10 @@ Phase 7 (2010) (1h35)
 
 The Lobster (2015)
 
+Borealis (2026)
+Blame! (2017)
+Genocidal Organ (2017)
+Cold Storage (2026)
+Reminiscence (2021)
+Homestuck: The Movie (2027)
+
