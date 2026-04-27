@@ -286,3 +286,7 @@ Cold Storage (2026)
 Reminiscence (2021)
 Homestuck: The Movie (2027)
 
+Metropolis (2001)
+Battletruck (1982)
+Planet of the Vampires (1965)
+
