@@ -290,3 +290,6 @@ Metropolis (2001)
 Battletruck (1982)
 Planet of the Vampires (1965)
 
+Adventure Planet (2012)
+
+Leprechaun 4: In Space (1996)
