@@ -39,14 +39,12 @@ flatliners 1990
 Tremors II
 Tremors III
 
-Evolution (2001)
 Dragons Heaven 1988
 Big Hero 6 (2014)
 Trancers (1984)
 Trancers II (1991)
 Trancers III (1992)
 Signs
-Better than us
 
 Akira
 knights of sidonia
@@ -296,3 +294,4 @@ Leprechaun 4: In Space (1996)
 
 Sunshine (2007)
 Road to the Stars (1957)
+
