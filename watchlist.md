@@ -295,3 +295,12 @@ Leprechaun 4: In Space (1996)
 Sunshine (2007)
 Road to the Stars (1957)
 
+The Wild Blue Yonder (2005)
+
+On The Beach (2000)
+
+Mad God (2021)
+
+The China Syndrome (1979)
+
+Gentleman Broncos (2009)
