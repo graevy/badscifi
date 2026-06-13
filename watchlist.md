@@ -2,7 +2,6 @@ entries should ideally be "Name (year) (running time) symbols"
 +: io thinks exceptionally good for sci fi night
 !: io thinks potential triggers that would prevent it from being watched (e.g. SA scenes, racism, queerphobia)
 
-A Clockwork Orange (1971)
 Logan’s Run (1976)
 
 iBoy
