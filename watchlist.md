@@ -81,7 +81,6 @@ From Beyond (1986)
 Project Shadowchaser (1992)
 
 high life (2018)
-THX-1138 (1971)
 
 the host (2006)
 
@@ -121,7 +120,7 @@ Bliss 2021
 Flatland: The Film (2007 Ehlinger film) (YoutubeID: avMX-Zft7K4 )
 2010: the year we make contact (1984)
 
-the astronaut's wife (1999)
+the astronaut's wife (1999) !
 
 The Island (2005)
 shredder orpheus (1989)
@@ -271,7 +270,6 @@ Phase 7 (2010) (1h35)
 The Lobster (2015)
 
 Borealis (2026)
-Blame! (2017)
 Genocidal Organ (2017)
 Cold Storage (2026)
 Reminiscence (2021)
@@ -299,3 +297,5 @@ The China Syndrome (1979)
 Gentleman Broncos (2009)
 
 Gamebox 1.0 (2004)
+Westworld (1973)
+

@@ -135,4 +135,6 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | deja vu                                           | when something changes on-screen because of time stuff. ignore the brains!          |
 | sci-fi combat pit                                 | "not strictly a pit. includes gladiator arenas, raised platforms"                   |
 | cantina/rave/saloon                               |                                                                                     |
+| blue glowy prop                                   |                                                                                     |
+|                                                   |                                                                                     |
 |                                                   |                                                                                     |
