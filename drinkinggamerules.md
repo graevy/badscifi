@@ -53,7 +53,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 |                                                   |                                                                                     |
 | *Dialogue*                                        |                                                                                     |
 |                                                   |                                                                                     |
-| “take a look at this”                             | exact match required, excepting "take a look at those []"                           |
+| “take a look at this”                             | fairly flexible, e.g. "take a look at those", "you're gonna wanna see this"         |
 | "i'm in"                                          | also accept "we're in", "you're in", etc.                                           |
 | "run a trace"                                     | very flexible                                                                       |
 | “i’ve got something!”                             |                                                                                     |
@@ -81,7 +81,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 |                                                   |                                                                                     |
 | slur                                              |                                                                                     |
 | mock the minority                                 | e.g. making short jokes to a little person                                          |
-| minority dies first                               |                                                                                     |
+| minority dies first                               | we have decided "the one fat person" counts                                         |
 | gender swap                                       | only if shameful or played for laughs                                               |
 | accidental cultural marriage                      | could theoretically be done tastefully                                              |
 | in english, four eyes                             | when we berate the group's Designated Nerd for assuming we know things              |
@@ -125,7 +125,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | escape pod                                        |                                                                                     |
 | self-destruct countdown                           |                                                                                     |
 | ventcrawl                                         |                                                                                     |
-| knocked over the railing                          |                                                                                     |
+| knocked over the railing                          | surprisingly common way to die in sci fi                                            |
 | cut the wire!                                     |                                                                                     |
 | clone standoff                                    | when you aren't sure which is the clone                                             |
 | outrun the explosion                              |                                                                                     |
