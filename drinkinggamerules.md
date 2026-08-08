@@ -58,7 +58,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | "run a trace"                                     | very flexible                                                                       |
 | “i’ve got something!”                             |                                                                                     |
 | "it's jammed"                                     |                                                                                     |
-| "life force"                                      |                                                                                     |
+| "life force"                                      | or "life energy" etc                                                                |
 | "enhance"                                         |                                                                                     |
 | "someone...or...someTHING!"                       | also accept "who...or what", etc.; this one's pretty lenient.                       |
 | “it’s...Earth!?”                                  |                                                                                     |
@@ -136,5 +136,8 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | sci-fi combat pit                                 | "not strictly a pit. includes gladiator arenas, raised platforms"                   |
 | cantina/rave/saloon                               |                                                                                     |
 | blue glowy prop                                   |                                                                                     |
+| everyone steps forward                            | to volunteer for something dangerous                                                |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
+|                                                   |                                                                                     |
+
