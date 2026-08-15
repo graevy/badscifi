@@ -48,6 +48,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | brain largely unused                              |                                                                                     |
 | grandfather paradox explanation                   |                                                                                     |
 | many-worlds theory explanation                    |                                                                                     |
+| schrödinger's cat explanation                     |                                                                                     |
 | dead progenitor civilization                      | "civilization" is a *faction* designation, not a species designation                |
 | math is universal language                        |                                                                                     |
 |                                                   |                                                                                     |
