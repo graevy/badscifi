@@ -33,6 +33,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | particle                                          |                                                                                     |
 | polarity                                          |                                                                                     |
 | flux                                              |                                                                                     |
+| mainframe                                         |                                                                                     |
 |                                                   |                                                                                     |
 | *Unreasonably Generic*                            |                                                                                     |
 |                                                   |                                                                                     |
@@ -67,6 +68,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | "it’s gonna overload!"                            | very lenient. an "overload" is going to cause an explosion                          |
 | "get us out of here"                              | accept any pronoun                                                                  |
 | "a logical explanation"                           | very lenient                                                                        |
+| "let's split up"                                  |                                                                                     |
 |                                                   |                                                                                     |
 | *Clumsy Plot*                                     |                                                                                     |
 |                                                   |                                                                                     |
@@ -77,12 +79,14 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | conveniently close planet/asteroid field/nebula   | these things are ordinarily very far apart                                          |
 | soft vacuum                                       | Ignoring the effects of depressurization, or depressurizing unrealistically slowly. |
 | space aether                                      | "the stuff that causes friction in space"                                           |
+| don't affect the timeline                         | despite already having affected it by being in the past                             |
 |                                                   |                                                                                     |
 | *Uncomfortable Watch*                             |                                                                                     |
 |                                                   |                                                                                     |
 | slur                                              |                                                                                     |
 | mock the minority                                 | e.g. making short jokes to a little person                                          |
-| minority dies first                               | we have decided "the one fat person" counts                                         |
+| minority dies first                               | body shape counts if it's obvious/heavy-handed                                      |
+| comic relief minority                             |                                                                                     |
 | gender swap                                       | only if shameful or played for laughs                                               |
 | accidental cultural marriage                      | could theoretically be done tastefully                                              |
 | in english, four eyes                             | when we berate the group's Designated Nerd for assuming we know things              |
@@ -104,9 +108,6 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | *Uncategorized*                                   |                                                                                     |
 |                                                   |                                                                                     |
 | wilhelm scream                                    |                                                                                     |
-| future new york                                   |                                                                                     |
-| the president/prime minister/cabinet/joint chiefs |                                                                                     |
-| antagonists british/french                        | "antagonists refers to a faction, not an individual"                                |
 | space drug                                        |                                                                                     |
 | human is actually nonhuman                        |                                                                                     |
 | eyes open after zoom-in                           | "when the camera zooms in on a character and they dramatically open their eyes"     |
@@ -116,7 +117,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | species with non-red blood introduced             |                                                                                     |
 | multiple suns/moons visible                       | combination must involve at least 2 suns or at least 2 moons                        |
 | psychic nosebleed                                 |                                                                                     |
-| eye scar                                          |                                                                                     |
+| badass face scar                                  |                                                                                     |
 | wormhole                                          |                                                                                     |
 | defibrillator                                     |                                                                                     |
 | opening the door with the guard’s body            | includes the (incapacitated) guard's badge, scan, voice, whatever                   |
@@ -131,13 +132,17 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | clone standoff                                    | when you aren't sure which is the clone                                             |
 | outrun the explosion                              |                                                                                     |
 | beam weapon collision                             |                                                                                     |
-| strange organ                                     | oddly-specific category of organ sci fi; human-but-with-another-organ!              |
 | death promotion                                   | when someone gets promoted because someone else died                                |
-| deja vu                                           | when something changes on-screen because of time stuff. ignore the brains!          |
+| visible timeline shift                            | when something changes on-screen because of *time stuff*                            |
 | sci-fi combat pit                                 | "not strictly a pit. includes gladiator arenas, raised platforms"                   |
 | cantina/rave/saloon                               |                                                                                     |
 | blue glowy prop                                   |                                                                                     |
 | everyone steps forward                            | to volunteer for something dangerous                                                |
+| masturbatory shakespeare                          |                                                                                     |
+| future new york/los angeles                       |                                                                                     |
+| the president/prime minister/cabinet/joint chiefs |                                                                                     |
+| antagonists british/russian/french                | "antagonists refers to a faction, not an individual"                                |
+| someone has to trigger it manually                | so someone will have to die                                                         |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
 |                                                   |                                                                                     |
