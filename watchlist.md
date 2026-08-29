@@ -107,7 +107,6 @@ On The Beach (1959)
 
 Poor Things (2023)
 The Postman (1997)
-Dark Fury (2004) (34m)
 mad max 1979 !
 the predator movies
 The Void War: Grey Horizons (2023)
@@ -164,7 +163,6 @@ La Planète sauvage (1973)
 Hot Tub Time Machine (2010) !
 AGGRO DR1FT (2024)
 Serenity (2019)
-The Electric State (2025)
 Paycheck (2003)
 Cypher (2002)
 

@@ -69,6 +69,7 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | "get us out of here"                              | accept any pronoun                                                                  |
 | "a logical explanation"                           | very lenient                                                                        |
 | "let's split up"                                  |                                                                                     |
+| "we've got company"                               |                                                                                     |
 |                                                   |                                                                                     |
 | *Clumsy Plot*                                     |                                                                                     |
 |                                                   |                                                                                     |
