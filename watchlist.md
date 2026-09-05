@@ -301,3 +301,8 @@ The Blob (1958)
 
 Apollo 18 (2011) (1h26m)
 
+Message from Space (1978)
+Class of 1999 (1990)
+
+Lensmen (1984) (1h47m)
+
