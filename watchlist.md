@@ -119,7 +119,6 @@ Flatland: The Film (2007 Ehlinger film) (YoutubeID: avMX-Zft7K4 )
 
 the astronaut's wife (1999) !
 
-The Island (2005)
 shredder orpheus (1989)
 The Beast (2023)
 
@@ -256,7 +255,6 @@ The Day of the Triffids (1963) (1h33)
 Nirvanna the Band the Show the Movie (2025)
 Bugonia (2025)
 Avalon (2001)
-Attack of the Killer Tomatoes (1978)
 Feeders 2: Sleigh Bells (1998)
 The Rocketeer (1991)
 Predator: Badlands (2025)
@@ -269,7 +267,6 @@ Borealis (2026)
 Genocidal Organ (2017)
 Cold Storage (2026)
 Reminiscence (2021)
-Homestuck: The Movie (2027)
 
 Metropolis (2001)
 Battletruck (1982)
