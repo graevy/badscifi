@@ -20,7 +20,7 @@ annihilation sequel?
 anon 2018
 red planet 2000
 
-Fortress (1992)
+Fortress 2: Re-Entry (1999)
 watchmen 2009
 
 universal soldier
@@ -94,13 +94,11 @@ cube (1997) (horror)
 A.P.E.X. (1994)
 predestination (2014)
 the quiet earth (1985) +
-Silent Running (1972)
 K-PAX (2001)
 plan 10 from outer space (1994) +
 PG: Psycho Goreman (2020)
 mission to mars (2000)
 flesh gordon (1974)
-children of men (2006)
 
 On The Beach (1959)
 4k77
@@ -229,7 +227,6 @@ The Manhattan Project (1986) (1h57)
 Eidolon (2015) (19mins)
 
 a.x.l. (2018)
-Mercy (2026)
 
 I Come in Peace (1990) !
 The Machine (2013) !
@@ -248,7 +245,6 @@ Terra Formars (2016)
 Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003)
 Companion (2025)
 Wax or the Discovery of Television Among the Bees (1991)
-Shin Godzilla (2016)
 
 The Day of the Triffids (1963) (1h33)
 
