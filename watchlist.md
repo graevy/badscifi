@@ -208,7 +208,6 @@ Splice (2009)
 Dark Universe (1993) (1h23)
 Dünyayı Kurtaran Adam (1982) (1h31)
 Hell Comes to Frogtown (1988) (1h26)
-Space Milkshake (2012)
 Night of the Lepus (1972) (1h28)
 Spacehunter: Adventures in the Forbidden Zone (1983) (1h30)
 Hardware (1990) (1h34)
@@ -222,9 +221,6 @@ The Final Cut (2004) (1h35)
 The Black Hole (1979) (1h38) (disney made this for some reason)
 The Incredible Shrinking Wknd (2019) (1h33)
 The Manhattan Project (1986) (1h57)
-
-88:88 (2012) (14mins)
-Eidolon (2015) (19mins)
 
 a.x.l. (2018)
 
