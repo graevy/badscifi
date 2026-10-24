@@ -39,7 +39,7 @@ Big Hero 6 (2014)
 Trancers (1984)
 Trancers II (1991)
 Trancers III (1992)
-Signs
+Signs (2002)
 
 Akira
 knights of sidonia
@@ -78,7 +78,7 @@ From Beyond (1986)
 
 Project Shadowchaser (1992)
 
-high life (2018)
+high life (2018) !
 
 the host (2006)
 
@@ -170,8 +170,6 @@ hackers (1995)
 tron (1982)
 
 until the end of the world (1991)
-vesper (2022) !
-aniara (2018) (existential horror, dog dies i think)
 pontypool (2008)
 paprika (2007)
 dante 01 (2008) !
@@ -256,7 +254,6 @@ Phase 7 (2010) (1h35)
 The Lobster (2015)
 
 Borealis (2026)
-Genocidal Organ (2017)
 Cold Storage (2026)
 Reminiscence (2021)
 
