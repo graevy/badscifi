@@ -74,6 +74,8 @@ The definition of "drink" includes smoking something, or drinking water if you'r
 | "let's split up"                                  |                                                                                     |
 | "we've got company"                               |                                                                                     |
 | "according to..."                                 |                                                                                     |
+| "get me out of this thing!"                       |                                                                                     |
+| "i can't shake 'em!"                              |                                                                                     |
 |                                                   |                                                                                     |
 | *Unrealistic*                                     |                                                                                     |
 |                                                   |                                                                                     |
