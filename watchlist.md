@@ -292,3 +292,5 @@ Class of 1999 (1990)
 
 Lensmen (1984) (1h47m)
 
+Star Kid (1997)
+
