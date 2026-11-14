@@ -85,7 +85,6 @@ the host (2006)
 a scanner darkly
 congress
 
-ex machina (2014)
 godzilla 1954
 
 Upgrade (2018)
@@ -238,7 +237,6 @@ Oxygen (2021)
 Terra Formars (2016)
 Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003)
 Companion (2025)
-Wax or the Discovery of Television Among the Bees (1991)
 
 The Day of the Triffids (1963) (1h33)
 
