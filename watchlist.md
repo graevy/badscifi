@@ -63,7 +63,6 @@ The Philadelphia experiment 2012
 Red Faction: Origins, 2011
 
 Southland Tales (2006)
-the time machine (2002)
 replicant (2001)
 The Man Who Saved the World (1981)
 Chain Reaction (1996)
@@ -132,7 +131,6 @@ Attack the Block (2011)
 El Hoyo (2019) !
 Serenity (2005)
 Assassin (2023)
-Moontrap: Target Earth (2017)
 
 The Hunger Games: Catching Fire (2013)
 The Hunger Games: Mockingjay - Part 1 (2014)
